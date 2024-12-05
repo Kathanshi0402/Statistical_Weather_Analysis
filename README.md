@@ -1,6 +1,6 @@
 # Statistical Weather Analysis
 
-This repository contains Python-based statistical computing scripts for analyzing weather trends using time series data. The project includes exploratory data analysis, optimization methods, and predictive modeling using ARIMA. Key functionalities are:
+This repository contains Python-based scripts for analyzing weather trends using time series data. The project includes exploratory data analysis, optimization methods, and predictive modeling using ARIMA. Key functionalities are:
 
 - **Data Wrangling**: Cleaning and transforming weather parameter datasets.
 - **Visualizations**: Line plots, boxplots, and trend analysis for temperature and solar irradiance.
